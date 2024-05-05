@@ -1,5 +1,6 @@
 title: Arthur Chiron
+description: Site personnel
 logo: /assets/img/photo.jpg
 show_downloads: false
-google_analytics:
+google_analytics: GTM-KFLPF4WF
 theme: jekyll-theme-minimal
