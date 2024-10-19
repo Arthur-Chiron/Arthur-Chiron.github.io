@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-FR"
-title                    : "Arthur Chiron's Website"
+locale                   : "en-US"
+title                    : "Arthur Chiron"
 title_separator          : "-"
 name                     : &name "Arthur Chiron"
-description              : &description "personal description"
+description              : &description "PhD Student in Computer Science"
 url                      : https://arthur-chiron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Arthur-Chiron/Arthur-Chiron.github.io"
@@ -23,12 +23,11 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Arthur Chiron"
-  pronouns         : "he/him"
   bio              : "PhD Student in Computer Science"
   location         : "Toulouse, France"
   employer         : "Paul Sabatier University"
   uri              : # URL
-  email            : "arthur.chiron@outlook.fr"
+  email            : "arthur.chiron@univ-tlse3.fr"
 
   # Academic websites
   arxiv            : # URL
